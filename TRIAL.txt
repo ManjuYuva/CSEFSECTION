@@ -1,0 +1,4 @@
+Fix plugin crash regression due to CET enhancement.
+2.  Add new API: indicator allocation for plugins.
+3.  Fix hide lines merging to avoid merging across a visible line.
+4.  Fix "Clear Change History" issue: cloned doc
